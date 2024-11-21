@@ -1,6 +1,6 @@
 ## Hello word
 
-[<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me on GitHub" />](https://github.com/Yokonad) 
+[<img src="https://img.shields.io/badge/Github-white" />](https://github.com/Yokonad) 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/yk.nadrr/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:danramos939@gmail.com)
 
