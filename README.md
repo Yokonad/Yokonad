@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:danramos939@gmail.com)
 
 
-Hola, mi nombre es Dan Ramos Reynaldo. Estoy comenzando a aprender sobre programación y actualmente estudio ciberseguridad en Senati. Me interesa el campo de la seguridad informática y cómo proteger la información en el entorno digital. Además, tengo un aprecio por el arte del anime, que disfruto por su estilo visual y narrativa. Estoy en un proceso de aprendizaje y exploración en ambas áreas.
+Hola, mi nombre es Dan Ramos Reynaldo. Estoy comenzando a aprender sobre programación y actualmente estudio ciberseguridad en Senati. Me interesa el campo de la seguridad informática y cómo proteger la información en el entorno digital. Además, tengo un aprecio por el arte del anime, que disfruto por su estilo visual y narrativa. Estoy en un proceso de aprendizaje y exploración en ambas áreas.:nazar_amulet::prayer_beads:
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
