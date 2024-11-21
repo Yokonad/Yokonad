@@ -1,8 +1,8 @@
 ## Hello word
 
-[<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/Yokonad) 
+[<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me on GitHub" />](https://github.com/Yokonad) 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/yk.nadrr/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](danramos939@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:danramos939@gmail.com)
 
 
 My name is **Leandra Oliveira**, I'm 20 years old and I'm a student of **Computer Science** at Federal University of Campina Grande (**UFCG**) in Brazil.
@@ -25,9 +25,3 @@ I am currently coordinator of the organization *Elas@computação* and monitor t
 
 <img title="My status" align="left" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=LeandraOliveiraS&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"
 />
-
-
-----
-Credit: [LeandraOliveiraS](https://github.com/LeandraOliveiraS)
-
-Last Edited on: 23/09/2020
