@@ -7,7 +7,7 @@
 
 Hola, mi nombre es Dan Ramos Reynaldo. Estoy comenzando a aprender sobre programación y actualmente estudio ciberseguridad en Senati. Me interesa el campo de la seguridad informática y cómo proteger la información en el entorno digital. Además, tengo un aprecio por el arte del anime, que disfruto por su estilo visual y narrativa. Estoy en un proceso de aprendizaje y exploración en ambas áreas. :nazar_amulet::prayer_beads:
 
-<img align= "left" width= "240" src= "https://media.tenor.com/4K0RB1X-7IsAAAAi/dramaturgy-vtuber.gif"/>
+<img align= "half" width= "240" src= "https://media.tenor.com/4K0RB1X-7IsAAAAi/dramaturgy-vtuber.gif"/>
 
 
 - 🌱 I’m currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
