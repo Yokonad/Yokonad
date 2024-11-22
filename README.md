@@ -1,7 +1,7 @@
 ## Hello World
 Hola, mi nombre es Dan Ramos. Estoy comenzando a aprender sobre programación y actualmente estudio ciberseguridad en Senati. Me interesa el campo de la seguridad informática y cómo proteger la información en el entorno digital. Además, tengo un aprecio por el arte del anime, que disfruto por su estilo visual y narrativa. :nazar_amulet::prayer_beads:
 
-<img align= "half" width= "240" src= "https://media1.tenor.com/m/PBRCAnXnoqsAAAAd/blue-lock-anime.gif"/>
+<img align= "half" width= "240" src= "https://media.tenor.com/aARMnEHFZxQAAAAi/todoro-miyazaki.gif"/>
 
 ## Redes sociales:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/773971588054908928) 
