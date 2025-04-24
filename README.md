@@ -1,7 +1,8 @@
 
 
-### Hola, soy Dan Ramos y estoy comenzando a aprender sobre programación mientras estudio ciberseguridad en Senati. Me interesa la seguridad informática y la protección de la información en el entorno digital. También disfruto del arte del anime por su estilo visual y narrativa.</p>
-###
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+</h1>
 
 <br clear="both">
 
