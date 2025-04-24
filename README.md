@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://es.bloggif.com/tmp/a1745e329b262df2cb5f2b4b507dc17c/text.gif?1745525656"Dan Ramos" />
+  <img src="https://es.bloggif.com/tmp/a1745e329b262df2cb5f2b4b507dc17c/text.gif?1745525727"Dan Ramos" />
 </h1>
 
 <br clear="both">
