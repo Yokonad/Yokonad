@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="186" src="https://media.tenor.com/pbks7TBAkgoAAAAi/super-mario-nintendo-switch.gif"  />
+  <img height="150" src="https://media.tenor.com/pbks7TBAkgoAAAAi/super-mario-nintendo-switch.gif"  />
 </div>
 
 ###
