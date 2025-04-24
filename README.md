@@ -1,5 +1,3 @@
-<h2 align="left">HELLOU SOY DAN</h2>
-
 ###
 
 Hola, soy Dan Ramos y estoy comenzando a aprender sobre programación mientras estudio ciberseguridad en Senati. Me interesa la seguridad informática y la protección de la información en el entorno digital. También disfruto del arte del anime por su estilo visual y narrativa.</p>
