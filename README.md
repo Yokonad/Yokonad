@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="196" src="https://i.postimg.cc/85TCLCp0/super-mario-nintendo-sw-itch-1.gif"display: block; margin: 0 auto;" />
+  <img height="196" src="https://media.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif"display: block; margin: 0 auto;" />
 </div>
 
 ###
