@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="196" src="https://media.tenor.com/pbks7TBAkgoAAAAi/super-mario-nintendo-switch.gif" alt="Super Mario" style="display: block; margin: 0 auto;" />
+  <img height="196" src="https://ibb.co/JRHwHcYG"display: block; margin: 0 auto;" />
 </div>
 
 ###
