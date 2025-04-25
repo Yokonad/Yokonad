@@ -10,10 +10,12 @@
 ##
 ##
 ##
-<div align="center">
-  <div style="background-color:#ffcc00; padding:10px;">
-  <strong>01100100 01100001 01101110 00100000 01110010 01100001 01101101 01101111 01110011</strong>
-</div>
+```python
+# Mensaje oculto en binario
+mensaje = "01100100 01100001 01101110 00100000 01110010 01100001 01101101 01101111 01110011"
+traduccion = ''.join([chr(int(b, 2)) for b in mensaje.split()])
+print(traduccion)  # dan ramos
+```
 
 ####
 ###
