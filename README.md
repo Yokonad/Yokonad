@@ -8,8 +8,6 @@
   <img height="196" src="https://media.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif"display: block; margin: 0 auto;" />
 </div>
 ##
-##
-##
 ```python
 # Mensaje oculto en binario
 mensaje = "01100100 01100001 01101110 00100000 01110010 01100001 01101101 01101111 01110011"
