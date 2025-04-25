@@ -9,7 +9,7 @@
 </div>
 
 <div style="background-color:#ffcc00; padding:10px;">
-  <strong>Este es un texto con fondo amarillo</strong>
+  <strong>01100100 01100001 01101110 00100000 01110010 01100001 01101101 01101111 01110011</strong>
 </div>
 
 ###
