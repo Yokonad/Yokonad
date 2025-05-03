@@ -1,4 +1,4 @@
-## dan~> yokonad_
+# dan@archlinux:~ ❯ vida --start
 
 <br clear="both">
 
