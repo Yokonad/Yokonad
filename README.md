@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://es.bloggif.com/tmp/a1745e329b262df2cb5f2b4b507dc17c/text.gif?1745525727" alt="Dan Ramos" />
-</h1>
+# > yokonad_
 
 <br clear="both">
 
