@@ -1,4 +1,4 @@
-# dan@archlinux:~ ❯ vida --start
+# dan@archlinux ~ ❯ vida --start
 
 <br clear="both">
 
