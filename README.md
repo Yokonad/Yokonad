@@ -27,9 +27,7 @@ dan@debian:~$ cat about.txt
 Language: python
 Identity: 01100100 01100001 01101110 00100000 01101101 01100001 01101101 01101111 01110011
 dan@debian:~$ echo $LOVE
-
-C <3
-
+# C <3
 dan@debian:~$ sudo nmap -sS skills/
 # 🖥️ Tech Stack & Security Tools
 ```
