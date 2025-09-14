@@ -1,4 +1,4 @@
-# Terminal Session - Dan
+# Dan Ramos Reynaldo
 
 ```bash
 dan@debian:~$ whoami
