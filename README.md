@@ -7,7 +7,7 @@ dan@archlinux:~$ cat about.txt
 Language: python
 Identity: 01100100 01100001 01101110 00100000 01110010 01100001 01101101 01101111 01110011
 dan@archlinux:~$ echo $LOVE
-# Cam<3
+# Cam <3
 dan@archlinux:~$ sudo nmap -sS skills/
 # 🖥️ Tech Stack & Security Tools
 ```
