@@ -3,14 +3,14 @@
 <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" alt="Tux Linux GIF" width="200">
 
 ```bash
-dan@debian:~$ whoami
+dan@archlinux:~$ whoami
 dan - Python Developer & Cybersecurity Student
-dan@debian:~$ cat about.txt
+dan@archlinux:~$ cat about.txt
 Language: python
-Identity: 01100100 01100001 01101110 00100000 01101101 01100001 01101101 01101111 01110011
-dan@debian:~$ echo $LOVE
-# C <3
-dan@debian:~$ sudo nmap -sS skills/
+Identity: 01100100 01100001 01101110 00100000 01110010 01100001 01101101 01101111 01110011
+dan@archlinux:~$ echo $LOVE
+# Cam<3
+dan@archlinux:~$ sudo nmap -sS skills/
 # 🖥️ Tech Stack & Security Tools
 ```
 
