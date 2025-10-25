@@ -1,5 +1,7 @@
 # Dan Ramos Reynaldo
 
+![Tux Linux GIF](https://media.tenor.com/7933003135340137862.gif)
+
 ```bash
 dan@debian:~$ whoami
 dan - Python Developer & Cybersecurity Student
