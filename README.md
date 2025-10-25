@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" alt="Tux Linux" width="200">
+  <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" alt="Tux Linux" width="250">
   
   # Dan Ramos Reynaldo
   ### 🐍 Python Developer & Cybersecurity Student
