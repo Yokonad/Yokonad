@@ -1,10 +1,11 @@
-<table align="center" style="border:1px solid #ccc; padding:20px; border-radius:10px; max-width:800px;">
+<table style="border:1px solid #ccc; padding:20px; border-radius:10px; max-width:800px;">
 <tr>
-<td align="center">
+<td>
 
   <h1>Dan Ramos Reynaldo</h1>
+
   <!-- GIF -->
-  <img src="https://media.tenor.com/7933003135340137862.gif" alt="Tux Linux GIF" width="200">
+  <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" alt="Tux Linux GIF" width="200">
 
   <!-- Terminal block -->
   <pre style="text-align:left; background:#1e1e1e; color:#00ff00; padding:15px; border-radius:5px; overflow-x:auto;">
