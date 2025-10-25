@@ -1,14 +1,16 @@
 <table style="border:1px solid #ccc; padding:20px; border-radius:10px; max-width:800px;">
 <tr>
-<td>
+  <!-- Columna de la imagen -->
+  <td style="vertical-align:top; padding-right:20px;">
+    <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" alt="Tux Linux GIF" width="200">
+  </td>
 
-  <h1>Dan Ramos Reynaldo</h1>
+  <!-- Columna del bloque de terminal y badges -->
+  <td style="vertical-align:top;">
+    <h2>Dan Ramos Reynaldo</h2>
 
-  <!-- GIF -->
-  <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" alt="Tux Linux GIF" width="200">
-
-  <!-- Terminal block -->
-  <pre style="text-align:left; background:#1e1e1e; color:#00ff00; padding:15px; border-radius:5px; overflow-x:auto;">
+    <!-- Terminal block -->
+    <pre style="text-align:left; background:#1e1e1e; color:#00ff00; padding:15px; border-radius:5px; overflow-x:auto;">
 dan@archlinux:~$ whoami
 dan - Python Developer & Cybersecurity Student
 dan@archlinux:~$ cat about.txt
@@ -18,19 +20,18 @@ dan@archlinux:~$ echo $LOVE
 # Cam<3
 dan@archlinux:~$ sudo nmap -sS skills/
 # 🖥️ Tech Stack & Security Tools
-  </pre>
+    </pre>
 
-  <!-- Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black">
-    <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white">
-    <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white">
-    <img src="https://img.shields.io/badge/steam-%23003366.svg?style=for-the-badge&logo=steam&logoColor=white">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  </p>
-
-</td>
+    <!-- Badges -->
+    <p>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black">
+      <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white">
+      <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white">
+      <img src="https://img.shields.io/badge/steam-%23003366.svg?style=for-the-badge&logo=steam&logoColor=white">
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+    </p>
+  </td>
 </tr>
 </table>
