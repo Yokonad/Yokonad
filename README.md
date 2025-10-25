@@ -1,6 +1,6 @@
 # Dan Ramos Reynaldo
 
-![Tux Linux GIF](https://media.tenor.com/bhewUhwCTYYAAAAi/tux-linux-tux.gif)
+![Tux Linux GIF](https://media1.tenor.com/m/y-cCxl8uEw0AAAAC/yetopen.gif)
 
 ```bash
 dan@debian:~$ whoami
