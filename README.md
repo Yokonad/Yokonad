@@ -1,6 +1,11 @@
 # Dan Ramos Reynaldo
 
-<img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" alt="Tux Linux GIF" width="200">
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" alt="Tux Linux GIF" width="200">
+    </td>
+    <td valign="top">
 
 ```bash
 dan@archlinux:~$ whoami
