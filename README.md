@@ -3,7 +3,6 @@
 <td align="center">
 
   <h1>Dan Ramos Reynaldo</h1>
-
   <!-- GIF -->
   <img src="https://media.tenor.com/7933003135340137862.gif" alt="Tux Linux GIF" width="200">
 
