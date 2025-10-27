@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" alt="Tux Linux GIF" width="300">
+<img src="https://media.tenor.com/POvAg2bcNnAAAAAi/linux-ethandud.gif" alt="Tux Linux GIF" width="300">
 
 ```bash
 dan@archlinux:~$ whoami
